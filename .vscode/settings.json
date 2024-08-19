@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "attoparser-2.0.0.BETA2.jar"
+    ]
+}
